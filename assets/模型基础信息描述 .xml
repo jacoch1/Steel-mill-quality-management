@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf8"?>
+<!-- edited with XMLSpy v2014 (http://www.altova.com) by  () -->
+<MechModel>
+	<BaseInfo>
+		<!--模型编码-->
+		<Code/>
+		<!--模型名称-->
+		<Name>长流程.炼钢.*.产品质量控制.质量.质量管理.SMQM>
+		<!--模型类型-->
+		<ModelClass>长流程.炼钢.*.产品质量控制.质量.质量管理.SMQM</ModelClass>
+		<!--模型说明描述-->
+		<FunctionDescr>炼钢厂质量管理模型</FunctionDescr>
+		<!--模型场景-->
+		<MethodScene>//模型场景
+	        <Scene>炼钢厂管理流程</Scene>
+		</MethodScene>
+		<!--模型依赖-->
+		<Dependencies>
+			<!--当前系统依赖的模型包括机理模型和模型参数需要的数据模型-->
+			<Dependency Name="炼钢.*.产品质量控制" Descr="炼钢生产机理模型"/>
+		</Dependencies>
+		<!--模型开发语言-->
+		<ProgramLanguage>C#</ProgramLanguage>
+		<!--建模方法-->
+		<DevelopeMethod>无</DevelopeMethod>
+		<!--开发工具-->
+		<DevelopeTools>Ms Visual Studio 2013</DevelopeTools>
+		<!--版本-->
+		<Version>1.0</Version>
+		<!--模型开发单位-->
+		<Company>冶金自动化研究设计院</Company>
+		<!--开模型发人员-->
+		<Developer>陈佳豪</Developer>
+		<!--模型开发日期-->
+		<DeveloperData>2020-5-22</DeveloperData>
+		<!--模型审核人员-->
+		<Auditor>null</Auditor>
+		<!--模型审核日期-->
+		<AuditDate>null</AuditDate>
+		<!--系统-->
+		<!--模型运行环境-->
+		<Env>
+			<Os>
+				<Version>Windows 10</Version>
+			</Os>
+			<RunPlatForm>Windows 10</RunPlatForm>
+			<Memory>4G以上</Memory>
+			<CPU>Intel双核2.4G</CPU>
+			<MinStorage>50G</MinStorage>
+		</Env>
+		<!--模型运行依赖环境-->
+		<Dependencies>
+			<!--当前系统依赖的模型包括机理模型和模型参数需要的数据模型-->
+			<Dependency Name="炼钢.*.产品质量控制" Descr="炼钢生产机理模型"/>
+		</Dependencies>
+	</BaseInfo>
+	<Parameters>
+		<!--模型输入输出参数-->
+	</Parameters>
+	<Variables>
+		<!--模型变量信息-->
+	</Variables>
+	<Rules>
+		<!--模型约束-->
+	</Rules>
+</MechModel>

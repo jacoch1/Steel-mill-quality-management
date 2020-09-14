@@ -1,0 +1,10 @@
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\bin\Debug\SMQM.xml
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\bin\Debug\SMQM.pdb
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\obj\Debug\SMQM.Form0.resources
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\obj\Debug\SMQM.Form1.resources
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\obj\Debug\SMQM.Properties.Resources.resources
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\obj\Debug\SMQM.csproj.GenerateResource.Cache
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\obj\Debug\SMQM.pdb
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\bin\Debug\SMQM.dll.config
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\bin\Debug\SMQM.dll
+C:\Users\jaco\Desktop\炼钢厂质量管理模型\src\SMQM\SMQM\obj\Debug\SMQM.dll
